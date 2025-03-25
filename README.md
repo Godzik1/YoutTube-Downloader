@@ -1,44 +1,47 @@
-YouTube Downloader
+# YouTube Downloader
 
 YouTube Downloader is a simple and efficient tool for downloading YouTube videos in MP4 format. It features a user-friendly GUI, making it easy to use for everyone.
 
-Features
+## Features
 
-✅ Download YouTube videos in MP4 format
-✅ Simple and easy-to-use graphical interface
-✅ Fast and reliable downloading process
+✅ Download YouTube videos in MP4 format  
+✅ Simple and easy-to-use graphical interface  
+✅ Fast and reliable downloading process  
 
-Files Overview
+## Files Overview
 
-plik1.py - Contains the main algorithm and class responsible for downloading YouTube videos.
+- **plik1.py** - Contains the main algorithm and class responsible for downloading YouTube videos.
+- **plik2.py** - Provides a graphical user interface (GUI) for easier interaction. To run the application, simply execute this file.
 
-plik2.py - Provides a graphical user interface (GUI) for easier interaction. To run the application, simply execute this file.
+## Installation & Usage
 
-Installation & Usage
-
-Requirements
+### Requirements
 
 Make sure you have the following installed:
 
-Python 3.x
+- Python 3.x
 
 Required libraries (you can install them using pip):
 
+```bash
 pip install pytube tkinter
+```
 
-Running the Application
+## Running the Application
 
-Clone this repository:
-
+1. Clone this repository:
+```bash
 git clone https://github.com/Godzik1/YouTube-Downloader.git
 cd YouTube-Downloader
+```
 
-Install required dependencies:
-
+2. Install required dependencies:
+```bash
 pip install pytube
-
-Run the GUI application:
-
+```
+3. Run the GUI application:
+```bash
 python plik2.py
+```
 
-Follow the on-screen instructions to download videos.
+4.Follow the on-screen instructions to download videos. 
