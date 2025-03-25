@@ -43,4 +43,3 @@ pip install pytube
 ```bash
 python plik2.py
 ```
-4.Follow the on-screen instructions to download videos. 
